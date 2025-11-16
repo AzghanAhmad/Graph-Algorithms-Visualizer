@@ -1,0 +1,7 @@
+Prim's Algorithm:
+Execution time: 0.026149511337280273 seconds
+MST weight: 40316
+
+Kruskal's Algorithm:
+Execution time: 0.06510162353515625 seconds
+MST weight: 40316

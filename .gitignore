@@ -1,0 +1,118 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+ENV/
+.env
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+*.iml
+
+# Output and logs
+
+outputs/
+graph_analysis_output/
+*.log
+
+# Distribution / packaging
+
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyCharm
+
+.idea/
+*.iml
+
+# VSCode
+
+.vscode/
+
+# Python cache
+
+*.pyc
+
+# Spyder project settings
+
+.spyderproject
+.spyproject
+
+# MacOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environments
+
+.env
+.venv
+env/
+ENV/
+
+# PyInstaller
+
+*.manifest
+*.spec
+
+# Coverage reports
+
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# mypy
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+
+.pytest_cache/
+
+# Jupyter
+
+.ipynb_checkpoints
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.bak
+*.swp
