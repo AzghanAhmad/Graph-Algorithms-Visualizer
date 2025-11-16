@@ -158,7 +158,7 @@ See LICENSE for details.
 
 Azghan Ahmad  
 GitHub: @AzghanAhmad  
-Email: azghan.ahmad@gmail.com (optional)  
+Email: azghanduplicate786@gmail.com (optional)  
 NUCES FAST, Islamabad  
 November 16, 2025
 
